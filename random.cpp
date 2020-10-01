@@ -65,7 +65,7 @@ typedef struct trie
 	}
 }Trie;
 
-//-----Trie showff---
+//-----Trie showoff---
 
 int32_t main()
 {
